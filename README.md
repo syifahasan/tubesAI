@@ -6,4 +6,4 @@ Debi Nabilah Solihah<br>
 Kania Isnaeni<br>
 Syifa Al Hasan<br>
 
-Pembuatan Sistem Pakar dengan metode Forward Chaining untuk mendapatkan klasifikasi atau potensi desa dengan memilih ciri atau potensi yang desa telah miliki.
+Pembuatan Sistem Pakar dengan metode Forward Chaining menggunakan bahasa pemrograman php untuk mendapatkan klasifikasi atau potensi desa dengan memilih ciri atau potensi yang desa telah miliki.
